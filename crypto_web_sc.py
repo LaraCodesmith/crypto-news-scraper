@@ -1,6 +1,6 @@
 import csv
-from karpet import Karpet
-from tqdm import tqdm
+import karpet
+import tqdm
 import aiohttp
 
 k = Karpet()
